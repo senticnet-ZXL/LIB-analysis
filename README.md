@@ -1,6 +1,6 @@
 # LIB-analysis
 
-This repository contains the LIB-based bias analysis methods proposed in [Tell-tale Signs of Implicit Bias: Language Abstraction for Automated Bias Analysis](https://escholarship.org/content/qt9h19z7ft/qt9h19z7ft.pdf), and [Implicit Bias in Peer Review: Through the Lens of Language Abstraction](https://aclanthology.org/2026.lrec-1.752.pdf). 
+This repository contains the bias analysis methods based on the Linguistic Implicit Bias theory proposed in [Tell-tale Signs of Implicit Bias: Language Abstraction for Automated Bias Analysis](https://escholarship.org/content/qt9h19z7ft/qt9h19z7ft.pdf), and [Implicit Bias in Peer Review: Through the Lens of Language Abstraction](https://aclanthology.org/2026.lrec-1.752.pdf). 
 
 ## Usage
 To use the abstraction scoring regression model proposed in [Implicit Bias in Peer Review: Through the Lens of Language Abstraction](https://aclanthology.org/2026.lrec-1.752.pdf), run the `abstract_scoring_peer_review.ipynb` jupyter notebook file. The data used for training and the experiments can be found from sources listed in the paper.
